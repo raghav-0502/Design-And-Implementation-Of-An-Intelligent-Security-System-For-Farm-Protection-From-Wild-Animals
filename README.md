@@ -26,6 +26,10 @@ We have used a number of technologies in this project:
 - [Raspberry Pi] - low cost, credit-card sized computer that plugs into a computer monitor or TV.
 - [Python] - interpreted, object-oriented, high-level programming language.
 
-## Methodology
+## Flowchart
+
+![image](https://user-images.githubusercontent.com/92449243/179055934-98f363bf-4b70-43d1-a386-feb51c837573.png)
+
+
 
 
