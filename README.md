@@ -32,7 +32,7 @@ We have used a number of technologies in this project:
 
 ## Hardware Schematic
 
-<img src="https://user-images.githubusercontent.com/92449243/179058016-21002d46-a2e2-433a-99dc-c9854e8e3213.png" width=“500” height=“500”>
+<img src="https://user-images.githubusercontent.com/92449243/179058016-21002d46-a2e2-433a-99dc-c9854e8e3213.png" width=“300” height=“300”>
 
 ## Working Model
 
