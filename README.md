@@ -30,6 +30,17 @@ We have used a number of technologies in this project:
 
 <img src="https://user-images.githubusercontent.com/92449243/179056373-ebffc28a-eaca-497b-b2b4-8f4df9a86af3.png" width="500" height="500">
 
+## Hardware And Software Tools
+
+| Hardware Tools | Software Tools |
+| ------ | ------ |
+| Pir Sensor | Jupyter Notebook |
+| Raspberry Pi4 | CNN |
+| LED | Deep Learning |
+| Raspberry Pi cam |
+| Buzzer |
+| Voltage Regulator |
+
 ## Hardware Schematic
 
 <img src="https://user-images.githubusercontent.com/92449243/179058016-21002d46-a2e2-433a-99dc-c9854e8e3213.png" width=“300” height=“300”>
