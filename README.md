@@ -28,5 +28,5 @@ We have used a number of technologies in this project:
 
 ## Flowchart
 
-<img src="[https://user-images.githubusercontent.com/92449243/179056373-ebffc28a-eaca-497b-b2b4-8f4df9a86af3.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/92449243/179056373-ebffc28a-eaca-497b-b2b4-8f4df9a86af3.png" width="100" height="100">
 
