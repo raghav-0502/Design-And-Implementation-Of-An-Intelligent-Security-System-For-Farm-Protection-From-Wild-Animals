@@ -30,3 +30,15 @@ We have used a number of technologies in this project:
 
 <img src="https://user-images.githubusercontent.com/92449243/179056373-ebffc28a-eaca-497b-b2b4-8f4df9a86af3.png" width="500" height="500">
 
+## Hardware Schematic
+
+<img src="https://user-images.githubusercontent.com/92449243/179058016-21002d46-a2e2-433a-99dc-c9854e8e3213.png" width=“500” height=“500”>
+
+## Working Model
+
+<img src="https://user-images.githubusercontent.com/92449243/179058253-f87db8da-81de-44dd-b5be-bd656b807527.png" width=“500” height=“500”>
+
+## Results
+
+<img src="https://user-images.githubusercontent.com/92449243/179058661-d9cd01e8-e61c-4f06-be36-3ea86689ae41.png" width=“500” height=“500”>
+
